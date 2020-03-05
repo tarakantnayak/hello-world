@@ -3,3 +3,4 @@
 <h2> Glad to see you here </h2>
 <h3> deploying on VM</h3>
 <h3> Editing again to see if it changes </h3>
+<h3>changing from ec2 machine on git</h3>
